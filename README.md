@@ -3,14 +3,14 @@ OPEN STUDENT BOOK
 
 English
 -------
-Hello World!!! I'm Edoardo Viola and I'm a Mozilla Volunteer. From August 2016, I have been working on this little guide to introduce Open Projects and Open Source to students of all faculties in Italian universities. It's important to show them the potential of working in an open community and to demonstrate why doing so is important, not just for the individual but for humanity as a whole.
+Hello to everybody!!! I'm Edoardo Viola and I'm a Mozilla Volunteer.  I have been working on this little guide since August 2016 to introduce Open Projects and Open Source to students of all faculties in italian universities. It's important to show them(the universities?)/ you (the students who're reading?) the potential of working in an open community and therefore to demonstrate why doing (doing what?) so is important, not just for the individual on its own but for humanity as a whole.
 
-This project can also serve as a good starting place for those who are interested in learning how to work collaboratively, mixing our passions and skills to build an open project. Feel free to make any suggestions about the project's goals here; our method of working is meant to be inclusive to everyone.
+This project can also be(serve è troppo italiano) as a good beginning for those who are interested in learning how to do  team-work, mixing our passions and skills to build an open project. Please, feel free to make any suggestions about the project's goals here; our method of working is meant to be inclusive to everyone.
 
-### What you need to contribute 
+### What you need to contribute/ Requirements 
 
 * Be a student, teacher or researcher or PhD at a university, or hold a university degree
-* Have a passion or desire to start to be part of a community that works on open projects
+* Have a passion or desire to start to be part of a community working on open projects
 
 Every week we will make a call or a chat to discuss the project, what we have done and the next steps. We will use this [Etherpad](https://public.etherpad-mozilla.org/p/PlaybookUniversitario) to track all discussions and to have a recap of all our calls.
 
